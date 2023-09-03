@@ -30,7 +30,7 @@ export default function About({ }: Props) {
                     I have a lot of expertise with JavaScript, HTML, CSS, and several open-source frameworks, including Node.js, Express.js, React.js, Angular and MongoDB. I am proficient in using these frameworks to create web apps with Single Page Applications (SPA) architectures. I can create sophisticated SQL queries utilizing well-known database servers like MySQL. In addition to my development work, I have strong problem-solving and bug-fixing abilities.
                 </p>
                 <p className="[text-align-last:center]">
-                    In addition to my skills in coding, I'm highly passionate about leveraging technology for societal and enterprise solutions, I have led research teams in developing real-time systems for public health and data security. My work in social distancing and face mask detection, as well as in enhancing Storage Area Network security, has been published in reputed international journals, showcasing my commitment to innovation and applied research
+                    In addition to my skills in coding, I am highly passionate about leveraging technology for societal and enterprise solutions, I have led research teams in developing real-time systems for public health and data security. My work in social distancing and face mask detection, as well as in enhancing Storage Area Network security, has been published in reputed international journals, showcasing my commitment to innovation and applied research
                 </p>
             </div>
         </motion.div>
