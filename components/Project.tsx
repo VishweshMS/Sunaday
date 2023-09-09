@@ -7,6 +7,7 @@ type Props = {
         description: string;
         topics: [string];
         html_url: string;
+        
     };
 };
 

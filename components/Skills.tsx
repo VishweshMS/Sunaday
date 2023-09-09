@@ -18,7 +18,7 @@ const skills = [
     "CSS",
     "Tailwind CSS",
     "Bootstrap CSS",
-    "Material Design",
+    
     "JavaScript",
     "jQuery",
     "TypeScript",
@@ -28,11 +28,10 @@ const skills = [
     "React.js",
     "Next.js",
     "Angular",
-    "Flask",
     "Django",
     "Laravel",
     "Spring Framework",
-    "Flutter",
+    
     "Scikit-learn",
     "Microsoft Office Suite",
     "Git",
